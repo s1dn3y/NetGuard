@@ -1,4 +1,4 @@
-Ad Blocking with NetGuard
+Ad Blocking with NetGuard Blah Blah
 -------------------------
 
 Instructions (you need to follow **all** the steps):
